@@ -4,7 +4,7 @@
 }:
 python3Packages.buildPythonPackage {
   pname = "flox-simple-project";
-  version = "0.0.1";
+  version = "0.0.2";
   src = self;
   PIP_DISABLE_PIP_VERSION_CHECK = 1;
   # Add Python modules needed by your package here
