@@ -12,5 +12,5 @@ python3Packages.buildPythonPackage {
     requests
   ];
   meta.description = "an example flox package";
-  meta.mainProgram = "hello";
+  meta.mainProgram = "flox-simple-project";
 }
